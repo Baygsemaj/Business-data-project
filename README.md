@@ -49,4 +49,4 @@ Sample Superstore dataset (retail sales data including sales, profit, discount, 
 
 ## 🚀 Project Status
 
-In progress — further analysis and visualizations will be added.
+Completed — includes data cleaning, analysis, visualisations, and business recommendations.
